@@ -1,0 +1,31 @@
+# Dart & Pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDEs & Editors
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Executables (if any generated manually)
+*.exe
+*.out
+*.app
+*.bin
+
+# Dart test coverage
+coverage/
+
+# Mac swap files
+*.swp
+
+# Environment-specific
+.env

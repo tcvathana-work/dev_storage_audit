@@ -1,0 +1,8 @@
+name: dev_storage_audit
+description: A CLI tool to audit developer caches on macOS.
+version: 0.1.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+executables:
+  dev_storage_audit: main
