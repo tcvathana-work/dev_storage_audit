@@ -4,7 +4,7 @@ dart pub global activate --source path .
 ```
 or
 ```
-dart pub global activate --source git https://github.com/yourname/dev_storage_audit.git --overwrite
+dart pub global activate --source git https://github.com/tcvathana-work/dev_storage_audit.git --overwrite
 ```
 
 ### 🏃 Running
